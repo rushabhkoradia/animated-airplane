@@ -6,7 +6,7 @@
 * Relax and have fun
     * Press and Hold Left Click to see magic!!!
 
-You can check it out [here](https://rushabhkoradia.github.io/animated-airplane/)
+> CHECK IT OUT [HERE](https://rushabhkoradia.github.io/animated-airplane/)
 
 ## Follow me: ##
 > [LinkedIn](https://www.linkedin.com/in/rushabh-koradia/) <br>
