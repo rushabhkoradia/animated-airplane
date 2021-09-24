@@ -1,5 +1,10 @@
 # Animated Airplane
-Press and Hold Left Click to see magic!!!
+
+## Steps to run: ##
+* Run the code
+* Reload the website
+* Relax and have fun
+    * Press and Hold Left Click to see magic!!!
 
 You can check it out [here](https://rushabhkoradia.github.io/animated-airplane/)
 
