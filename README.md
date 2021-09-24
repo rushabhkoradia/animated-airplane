@@ -1,2 +1,10 @@
 # Animated Airplane
-Press and Hold Left Click to see magic
+Press and Hold Left Click to see magic!!!
+
+You can check it out [here](https://rushabhkoradia.github.io/animated-airplane/)
+
+## Follow me: ##
+> [LinkedIn](https://www.linkedin.com/in/rushabh-koradia/) <br>
+> [Instagram](https://instagram.com/fusiancode) <br>
+> [Twitter](https://twitter.com/fusiancode) <br>
+> [Facebook](https://www.facebook.com/fusiancode) <br>
