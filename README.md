@@ -6,7 +6,7 @@ Press and Hold `Left` Click to see the magic!!
 > CHECK THE DEMO [HERE](https://rushabhkoradia.github.io/animated-airplane/)
 
 ## Final Result: ##
-<p><img src="https://github.com/rushabhkoradia/My-Gifs/blob/main/airplane.gif" alt="Animated Airplane" width="400"></p>
+<p><img src="https://github.com/rushabhkoradia/readme-assets/blob/main/airplane.gif" alt="Animated Airplane" width="400"></p>
 
 ## Follow me: ##
 > [LinkedIn](https://www.linkedin.com/in/rushabh-koradia/) <br>
